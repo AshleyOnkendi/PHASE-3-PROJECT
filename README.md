@@ -70,6 +70,6 @@ Scaling¶
  Predict Y
 The accuracy¶
 The accuracy was 94%
-# EVALUATION
+# 6 EVALUATION
 Decision tree is the best model to use because it has an accuracy of 94% compared to logistic with an accuracy of 68%
 
